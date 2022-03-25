@@ -1,0 +1,35 @@
+.slad {
+  margin-left: 0px;
+  padding-top: 20px;
+  padding-right: 0px;
+  height: 625px;
+  margin: 0px;
+}
+.sidelist {
+  background-color: #fff9e6;
+  padding-bottom: 50px;
+  margin-right: 0px;
+}
+
+.sidelist li {
+  list-style-type: none;
+  justify-content: center;
+  padding-left: 50px;
+}
+.sidelist li i {
+  font-size: 70px;
+  color: #664d00;
+  padding-bottom: 40px;
+}
+.sidelist li h3 {
+  color: #664d00;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+.services {
+  background-color: #e6ffe6;
+}
+.maincontent {
+  position: relative;
+  top: 20;
+}
